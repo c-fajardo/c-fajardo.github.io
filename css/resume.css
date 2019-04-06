@@ -23,12 +23,6 @@ width: 100%;
 a:hover{
   background: pink;
 }
-a:visited {
-  background: yellow;
-}
-a:active {
-  background: blue;
-}
 
 #home {
   margin-top: 145px;
