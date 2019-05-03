@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+  color: white;
+  max-width: 960px;
+  min-width: 600px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+
+
+  background-image: url("background-image/memphis-mini-dark.png");
+  background-attachment: fixed;
+  background-size: cover
+
+}
+
+header {
+  margin-top: auto;
+}
+
+nav {
+  background-color: #eee;
+  fon
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+/* nav ul {
+  margin: 0 0 0 8px;
+  padding-left: 0;
+  list-style: none;
+} */
+
+nav li {
+  display: inline-block;
+  margin-right: 30px;
+  padding: 10px 0;
+}
